@@ -182,7 +182,7 @@ def tokenz():
 		zedd.write(toket)
 		zedd.close()
 		print '\033[1;97m{\033[1;92m✓\033[1;97m}\033[1;92m Login Berhasil'
-		os.system('xdg-open https://facebook.com/Itsme.PANGLIMA.ILHAM')
+		os.system('xdg-open https://www.facebook.com/USERLORD987REVO')
 		bot_komen()
 	except KeyError:
 		print "\033[1;97m{\033[1;91m!\033[1;97m} \033[1;91mToken salah !"
